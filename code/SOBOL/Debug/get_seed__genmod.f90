@@ -1,8 +1,0 @@
-        !COMPILER-GENERATED INTERFACE MODULE: Wed Jan 31 15:16:17 2018
-        MODULE GET_SEED__genmod
-          INTERFACE 
-            SUBROUTINE GET_SEED(SEED)
-              INTEGER(KIND=4) :: SEED
-            END SUBROUTINE GET_SEED
-          END INTERFACE 
-        END MODULE GET_SEED__genmod
