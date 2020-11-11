@@ -1,0 +1,8 @@
+        !COMPILER-GENERATED INTERFACE MODULE: Wed Jan 31 15:16:17 2018
+        MODULE GET_UNIT__genmod
+          INTERFACE 
+            SUBROUTINE GET_UNIT(IUNIT)
+              INTEGER(KIND=4) :: IUNIT
+            END SUBROUTINE GET_UNIT
+          END INTERFACE 
+        END MODULE GET_UNIT__genmod
